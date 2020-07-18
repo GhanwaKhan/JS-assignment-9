@@ -1,0 +1,99 @@
+/* table, tr, td {
+    border: 1px solid black;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block; */
+    /* //chapter 14-16, task 15 */
+
+/* .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: lightgray;
+    min-width: 160px;
+    overflow: auto;
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown a:hover {background-color: #ddd;}
+  
+  .show {display: block;}
+
+  .dropbtn {
+    background-color: #3498DB;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+  } */
+
+
+
+
+
+  /* chapter 49-52, task 3
+table , th , td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+tr {
+    width: 50px;
+    height: 35px;
+} */
+
+
+
+
+/* chapter 43-48, task 2
+img {
+    width: 150px;
+    height: 180px;
+    margin: 20px auto;
+}
+
+div {
+    border: 1px solid black;
+    height: 220 px;
+    width: 150px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 20px;
+} */
+
+
+
+
+/* chapter 43-48, task 3
+table , th , td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+tr {
+    width: 50px;
+    height: 35px;
+} */
+
+
+
+
+/* chapter 43-48, task 4 */
+/* img {
+    width: 500px;
+    height: 500px;
+} */
